@@ -23,7 +23,7 @@ p{
     color: hotpink; 
 }
 #li-three {
-    color: peachpuff;
+    background-color: peachpuff;
 }
 .list-item{
 border: 5px solid green;
